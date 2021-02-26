@@ -1,6 +1,5 @@
-discord.py
+pyTelegramBotAPI
 aiohttp
-telebot
 websockets
 chardet
 datetime
