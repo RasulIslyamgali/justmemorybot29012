@@ -1,5 +1,6 @@
 discord.py
 aiohttp
+telebot
 websockets
 chardet
-datetime.py
+datetime
